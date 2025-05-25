@@ -1,4 +1,4 @@
-# 🌐 My Links Page
+# 🌐 Website Portal
 
 Welcome to my personal links page! This is a simple, responsive website that collects all my important online profiles in one place.
 
