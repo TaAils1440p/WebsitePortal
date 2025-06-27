@@ -15,14 +15,12 @@ This site features:
   - Twitch
   - Bandcamp
   - Itch.io
-
-Each link includes the relevant icon using **Font Awesome** for a clean and modern look.
+  - JS to CoffeeScript
 
 ## 🛠️ Built With
 
 - HTML5
 - CSS3
-- Font Awesome (via CDN)
 
 ## 🚀 How to Use
 
