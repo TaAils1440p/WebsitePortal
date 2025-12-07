@@ -7,15 +7,7 @@ Welcome to my personal links page! This is a simple, responsive website that col
 This site features:
 
 - A profile picture at the top
-- A short description
-- Buttons linking to:
-  - GitHub
-  - YouTube
-  - Discord Server
-  - Twitch
-  - Bandcamp
-  - Itch.io
-  - JS to CoffeeScript
+- Buttons linking to all my social medias
 
 ## 🛠️ Built With
 
