@@ -62,9 +62,16 @@ body {
 /* Colors */
 .github { background: #fde68a; }
 .youtube { background: #fca5a5; }
-.discord { background: #bfdbfe; }
-.twitch { background: #fde68a; }
-.spotify { background: #fca5a5; }
-.itch { background: #bfdbfe; }
-.ide { background: #fde68a; }
-.blog { background: #fca5a5; }
+.spotify { background: #bfdbfe; }
+.bandcamp { background: #fde68a; }
+.whatsapp { background: #fca5a5; }
+
+/*
+
+COLOR ORDER:
+
+background: #fde68a;
+background: #fca5a5;
+background: #bfdbfe;
+
+*/
