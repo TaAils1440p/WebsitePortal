@@ -1,0 +1,126 @@
+body {
+    background-color: #1a1a1a;
+    background-image: url('https://www.transparenttextures.com/patterns/dark-matter.png');
+    font-family: "Comic Sans MS", "Arial", sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #e0e0e0;
+    text-align: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #2a2a2a;
+    border: 5px double #444;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+    background-image: url('https://www.transparenttextures.com/patterns/dark-denim-3.png');
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border: 4px solid #555;
+    margin: 10px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    display: block;
+}
+
+.title-box {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff9900;
+    text-shadow: 2px 2px 0px #000;
+    margin: 15px auto;
+    padding: 10px;
+    background-color: #333;
+    border: 2px dashed #555;
+    display: block;
+    width: fit-content;
+}
+
+.title-box i {
+    margin-left: 10px;
+}
+
+.link {
+    display: block;
+    width: 250px;
+    margin: 10px auto;
+    padding: 8px 12px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #555;
+    background-color: #3a3a3a;
+    text-align: left;
+    transition: all 0.2s;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.7);
+}
+
+.link:hover {
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.5);
+    transform: scale(1.02);
+}
+
+.link span {
+    margin-right: 10px;
+}
+
+.link i {
+    float: right;
+    font-size: 22px;
+    margin-top: 3px;
+}
+
+.link.github {
+    background-color: #24292e;
+    border-color: #586069;
+}
+.link.github:hover {
+    background-color: #30363d;
+}
+
+.link.youtube {
+    background-color: #ff0000;
+    border-color: #cc0000;
+}
+.link.youtube:hover {
+    background-color: #e60023;
+}
+
+.link.spotify {
+    background-color: #1DB954;
+    border-color: #1ed760;
+}
+.link.spotify:hover {
+    background-color: #1aa34a;
+}
+
+.link.bandcamp {
+    background-color: #629aa9;
+    border-color: #4a8c9c;
+}
+.link.bandcamp:hover {
+    background-color: #508595;
+}
+
+.link.insta {
+    background-color: #ff9500;
+    border-color: #e13a0b;
+}
+.link.insta:hover {
+    background-color: #958750;
+}
+
+.link.whatsapp {
+    background-color: #25D366;
+    border-color: #128C7E;
+}
+.link.whatsapp:hover {
+    background-color: #1e9f55;
+}
