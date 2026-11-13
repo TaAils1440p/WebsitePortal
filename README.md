@@ -17,7 +17,7 @@ This site features:
 ## 🚀 How to Use
 
 1. Clone or download the repository.
-2. Replace `Profile Pic.jpeg` with your own profile picture.
+2. Replace `pfp.jpg` with your own profile picture.
 3. Open `index.html` in your browser.
 4. Customize links and styles as needed.
 
