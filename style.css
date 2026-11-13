@@ -124,3 +124,11 @@ body {
 .link.whatsapp:hover {
     background-color: #1e9f55;
 }
+
+.link.discord {
+    background-color: rgb(30, 24, 212);
+}
+
+.link.discord:hover {
+    background-color: rgb(22, 17, 155);
+}
